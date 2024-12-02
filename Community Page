@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Community | HealthShare</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>HealthShare</h1>
+    </header>
+    <main>
+        <h2>Community Forums</h2>
+        <ul>
+            <li><a href="#">Lifestyle</a></li>
+            <li><a href="#">Pregnancy & Baby Care</a></li>
+            <li><a href="#">Adolescence</a></li>
+            <li><a href="#">Geriatric Life</a></li>
+        </ul>
+    </main>
+</body>
+</html>
