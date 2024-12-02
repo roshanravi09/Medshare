@@ -1,0 +1,11 @@
+project/
+│
+├── index.html       // Home Page
+├── login.html       // Login/Signup
+├── experience.html  // Disease Experiences
+├── community.html   // Community Forums
+├── dashboard.html   // User Dashboard
+├── css/
+│   └── styles.css   // Styles
+├── js/
+│   └── app.js       // JavaScript
